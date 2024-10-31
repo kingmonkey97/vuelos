@@ -1,6 +1,6 @@
 <?php
 
-$host = 'localhost'; // Cambia esto si tu host es diferente
+$host = 'https://kingmonkey97.github.io/vuelos/'; // Cambia esto si tu host es diferente
 $db = 'sistema_usuarios'; // Nombre de tu base de datos
 $user = 'root'; // Usuario de la base de datos
 $pass = ''; // Contraseña del usuario
